@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>לוח בקרה - תקציב IT</title>
+  <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+  <main>
+    <div id="filters" aria-label="סינון נתונים"></div>
+    <div id="tabs"></div>
+    <div class="main-content">
+      <div id="chart-area" class="chart-area" role="region" aria-label="תרשים ראשי"></div>
+      <div id="kpi-sidebar" class="kpi-sidebar" aria-label="מדדים מרכזיים"></div>
+    </div>
+    <div id="toggle-area"></div>
+    <div id="line-charts" class="line-charts-section" aria-label="תרשימי מגמות"></div>
+    <div aria-live="polite" id="live-region"></div>
+  </main>
+
+  <!-- Utils (load first) -->
+  <script src="./utils/config.js"></script>
+  <script src="./utils/sanitize.js"></script>
+  <script src="./data/mock-data.js"></script>
+  <script src="./utils/api.js"></script>
+
+  <!-- Components -->
+  <script src="./components/dropdowns.js"></script>
+  <script src="./components/tabs.js"></script>
+  <script src="./components/bar-chart.js"></script>
+  <script src="./components/line-chart.js"></script>
+  <script src="./components/kpi-cards.js"></script>
+  <script src="./components/toggle.js"></script>
+
+  <!-- App (load last) -->
+  <script src="./app.js"></script>
+</body>
+</html>
