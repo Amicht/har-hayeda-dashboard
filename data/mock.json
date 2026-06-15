@@ -1,0 +1,50 @@
+{
+  "budgetCosts": [
+    {"_id":1,"Cost ID":1,"Cost type":"השקעה","Source / Usage":"תקציב בסיס מסומן IT","Capex planned":2100,"Opex planned":2400,"total planned":4500,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":1,"Workplan":"פיתוח ותחזוקת יישומים","Year":2026,"Office":"כל המשרדים"},
+    {"_id":2,"Cost ID":2,"Cost type":"השקעה","Source / Usage":"מתקציב מערך הדיגיטל הלאומי","Capex planned":30,"Opex planned":20,"total planned":50,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":2,"Workplan":"משאבי מחשב מרכזיים","Year":2026,"Office":"כל המשרדים"},
+    {"_id":3,"Cost ID":3,"Cost type":"הוצאה שוטפת","Source / Usage":"מתקציב משרדים אחרים","Capex planned":50,"Opex planned":100,"total planned":150,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":3,"Workplan":"תפעול ותמיכת IT","Year":2026,"Office":"כל המשרדים"},
+    {"_id":4,"Cost ID":4,"Cost type":"הוצאה שוטפת","Source / Usage":"לא ידוע בשלב זה","Capex planned":0,"Opex planned":80,"total planned":80,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":4,"Workplan":"אבטחת מידע והגנת סייבר","Year":2026,"Office":"כל המשרדים"},
+    {"_id":5,"Cost ID":5,"Cost type":"הוצאה שוטפת","Source / Usage":"מתקציב יחידות אחרות במשרד","Capex planned":100,"Opex planned":200,"total planned":300,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":5,"Workplan":"הנהלה ומטה","Year":2026,"Office":"כל המשרדים"},
+    {"_id":6,"Cost ID":6,"Cost type":"הוצאה שוטפת","Source / Usage":"עובדי מדינה","Capex planned":0,"Opex planned":250,"total planned":250,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":6,"Workplan":"משאבים למשתמשי קצה","Year":2026,"Office":"כל המשרדים"},
+    {"_id":7,"Cost ID":7,"Cost type":"השקעה","Source / Usage":"מאגף תקציבים במשרד האוצר","Capex planned":150,"Opex planned":200,"total planned":350,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":7,"Workplan":"משאבי דאטה","Year":2026,"Office":"כל המשרדים"},
+    {"_id":8,"Cost ID":8,"Cost type":"הוצאה שוטפת","Source / Usage":"תוספות / עודפים צפויים","Capex planned":400,"Opex planned":500,"total planned":900,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":8,"Workplan":"תקשורת ומולטימדיה","Year":2026,"Office":"כל המשרדים"},
+    {"_id":9,"Cost ID":9,"Cost type":"הוצאה שוטפת","Source / Usage":"אחר","Capex planned":10,"Opex planned":20,"total planned":30,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":9,"Workplan":"בינה מלאכותית","Year":2026,"Office":"כל המשרדים"},
+    {"_id":10,"Cost ID":10,"Cost type":"השקעה","Source / Usage":"תקציב בסיס מסומן IT","Capex planned":1800,"Opex planned":2000,"total planned":3800,"Capex actual":"1700","Opex actual":"1900","Total actual":"3600","ID workplan":1,"Workplan":"פיתוח ותחזוקת יישומים","Year":2025,"Office":"כל המשרדים"},
+    {"_id":11,"Cost ID":11,"Cost type":"השקעה","Source / Usage":"מתקציב מערך הדיגיטל הלאומי","Capex planned":25,"Opex planned":15,"total planned":40,"Capex actual":"20","Opex actual":"10","Total actual":"30","ID workplan":2,"Workplan":"משאבי מחשב מרכזיים","Year":2025,"Office":"כל המשרדים"},
+    {"_id":12,"Cost ID":12,"Cost type":"הוצאה שוטפת","Source / Usage":"מתקציב משרדים אחרים","Capex planned":40,"Opex planned":80,"total planned":120,"Capex actual":"35","Opex actual":"75","Total actual":"110","ID workplan":3,"Workplan":"תפעול ותמיכת IT","Year":2025,"Office":"כל המשרדים"},
+    {"_id":13,"Cost ID":13,"Cost type":"הוצאה שוטפת","Source / Usage":"לא ידוע בשלב זה","Capex planned":0,"Opex planned":60,"total planned":60,"Capex actual":"0","Opex actual":"50","Total actual":"50","ID workplan":4,"Workplan":"אבטחת מידע והגנת סייבר","Year":2025,"Office":"כל המשרדים"},
+    {"_id":14,"Cost ID":14,"Cost type":"הוצאה שוטפת","Source / Usage":"מתקציב יחידות אחרות במשרד","Capex planned":80,"Opex planned":170,"total planned":250,"Capex actual":"75","Opex actual":"160","Total actual":"235","ID workplan":5,"Workplan":"הנהלה ומטה","Year":2025,"Office":"כל המשרדים"},
+    {"_id":15,"Cost ID":15,"Cost type":"הוצאה שוטפת","Source / Usage":"עובדי מדינה","Capex planned":0,"Opex planned":220,"total planned":220,"Capex actual":"0","Opex actual":"210","Total actual":"210","ID workplan":6,"Workplan":"משאבים למשתמשי קצה","Year":2025,"Office":"כל המשרדים"},
+    {"_id":16,"Cost ID":16,"Cost type":"השקעה","Source / Usage":"מאגף תקציבים במשרד האוצר","Capex planned":120,"Opex planned":170,"total planned":290,"Capex actual":"110","Opex actual":"160","Total actual":"270","ID workplan":7,"Workplan":"משאבי דאטה","Year":2025,"Office":"כל המשרדים"},
+    {"_id":17,"Cost ID":17,"Cost type":"הוצאה שוטפת","Source / Usage":"תוספות / עודפים צפויים","Capex planned":350,"Opex planned":420,"total planned":770,"Capex actual":"340","Opex actual":"400","Total actual":"740","ID workplan":8,"Workplan":"תקשורת ומולטימדיה","Year":2025,"Office":"כל המשרדים"},
+    {"_id":18,"Cost ID":18,"Cost type":"הוצאה שוטפת","Source / Usage":"אחר","Capex planned":5,"Opex planned":15,"total planned":20,"Capex actual":"5","Opex actual":"10","Total actual":"15","ID workplan":9,"Workplan":"בינה מלאכותית","Year":2025,"Office":"כל המשרדים"},
+    {"_id":19,"Cost ID":19,"Cost type":"השקעה","Source / Usage":"תקציב בסיס מסומן IT","Capex planned":1600,"Opex planned":1800,"total planned":3400,"Capex actual":"1550","Opex actual":"1750","Total actual":"3300","ID workplan":1,"Workplan":"פיתוח ותחזוקת יישומים","Year":2024,"Office":"כל המשרדים"},
+    {"_id":20,"Cost ID":20,"Cost type":"הוצאה שוטפת","Source / Usage":"תוספות / עודפים צפויים","Capex planned":300,"Opex planned":380,"total planned":680,"Capex actual":"290","Opex actual":"370","Total actual":"660","ID workplan":8,"Workplan":"תקשורת ומולטימדיה","Year":2024,"Office":"כל המשרדים"},
+    {"_id":21,"Cost ID":21,"Cost type":"הוצאה שוטפת","Source / Usage":"מתקציב יחידות אחרות במשרד","Capex planned":70,"Opex planned":150,"total planned":220,"Capex actual":"65","Opex actual":"140","Total actual":"205","ID workplan":5,"Workplan":"הנהלה ומטה","Year":2024,"Office":"כל המשרדים"},
+    {"_id":22,"Cost ID":22,"Cost type":"השקעה","Source / Usage":"תקציב בסיס מסומן IT","Capex planned":1400,"Opex planned":1600,"total planned":3000,"Capex actual":"1350","Opex actual":"1550","Total actual":"2900","ID workplan":1,"Workplan":"פיתוח ותחזוקת יישומים","Year":2023,"Office":"כל המשרדים"},
+    {"_id":23,"Cost ID":23,"Cost type":"הוצאה שוטפת","Source / Usage":"תוספות / עודפים צפויים","Capex planned":250,"Opex planned":350,"total planned":600,"Capex actual":"240","Opex actual":"340","Total actual":"580","ID workplan":8,"Workplan":"תקשורת ומולטימדיה","Year":2023,"Office":"כל המשרדים"},
+    {"_id":24,"Cost ID":24,"Cost type":"השקעה","Source / Usage":"תקציב בסיס מסומן IT","Capex planned":1200,"Opex planned":1400,"total planned":2600,"Capex actual":"1150","Opex actual":"1350","Total actual":"2500","ID workplan":1,"Workplan":"פיתוח ותחזוקת יישומים","Year":2022,"Office":"כל המשרדים"},
+    {"_id":25,"Cost ID":25,"Cost type":"הוצאה שוטפת","Source / Usage":"תוספות / עודפים צפויים","Capex planned":200,"Opex planned":300,"total planned":500,"Capex actual":"190","Opex actual":"290","Total actual":"480","ID workplan":8,"Workplan":"תקשורת ומולטימדיה","Year":2022,"Office":"כל המשרדים"},
+    {"_id":26,"Cost ID":26,"Cost type":"השקעה","Source / Usage":"תקציב בסיס מסומן IT","Capex planned":2000,"Opex planned":2200,"total planned":4200,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":1,"Workplan":"פיתוח ותחזוקת יישומים","Year":2026,"Office":"משרד הבריאות"},
+    {"_id":27,"Cost ID":27,"Cost type":"הוצאה שוטפת","Source / Usage":"תוספות / עודפים צפויים","Capex planned":300,"Opex planned":400,"total planned":700,"Capex actual":"0","Opex actual":"0","Total actual":"0","ID workplan":8,"Workplan":"תקשורת ומולטימדיה","Year":2026,"Office":"משרד הבריאות"}
+  ],
+  "officeBudget": [
+    {"_id":1,"ID":1,"Office":"כל המשרדים","Year":2026,"Operational budget":126800,"Total human capital":12500},
+    {"_id":2,"ID":2,"Office":"כל המשרדים","Year":2025,"Operational budget":118500,"Total human capital":11800},
+    {"_id":3,"ID":3,"Office":"כל המשרדים","Year":2024,"Operational budget":112000,"Total human capital":11200},
+    {"_id":4,"ID":4,"Office":"כל המשרדים","Year":2023,"Operational budget":105000,"Total human capital":10500},
+    {"_id":5,"ID":5,"Office":"כל המשרדים","Year":2022,"Operational budget":98000,"Total human capital":9800},
+    {"_id":6,"ID":6,"Office":"משרד הבריאות","Year":2026,"Operational budget":45000,"Total human capital":4500},
+    {"_id":7,"ID":7,"Office":"משרד הבריאות","Year":2025,"Operational budget":42000,"Total human capital":4200},
+    {"_id":8,"ID":8,"Office":"משרד החינוך","Year":2026,"Operational budget":62000,"Total human capital":6200},
+    {"_id":9,"ID":9,"Office":"משרד החינוך","Year":2025,"Operational budget":58000,"Total human capital":5800}
+  ],
+  "humanCapital": [
+    {"_id":1,"ID":1,"Year":2026,"Office":"כל המשרדים","Cluster":"פיתוח","IT Service Providers":3200,"Civil Servant Positions":1800,"Student Positions":400,"Total Human Capital IT":5400},
+    {"_id":2,"ID":2,"Year":2026,"Office":"כל המשרדים","Cluster":"תפעול","IT Service Providers":2100,"Civil Servant Positions":1200,"Student Positions":200,"Total Human Capital IT":3500},
+    {"_id":3,"ID":3,"Year":2026,"Office":"כל המשרדים","Cluster":"אבטחה","IT Service Providers":800,"Civil Servant Positions":500,"Student Positions":100,"Total Human Capital IT":1400},
+    {"_id":4,"ID":4,"Year":2025,"Office":"כל המשרדים","Cluster":"פיתוח","IT Service Providers":2900,"Civil Servant Positions":1700,"Student Positions":350,"Total Human Capital IT":4950},
+    {"_id":5,"ID":5,"Year":2025,"Office":"כל המשרדים","Cluster":"תפעול","IT Service Providers":1900,"Civil Servant Positions":1100,"Student Positions":180,"Total Human Capital IT":3180},
+    {"_id":6,"ID":6,"Year":2025,"Office":"כל המשרדים","Cluster":"אבטחה","IT Service Providers":700,"Civil Servant Positions":450,"Student Positions":80,"Total Human Capital IT":1230}
+  ]
+}
